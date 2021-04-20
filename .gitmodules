@@ -10,3 +10,7 @@
 [submodule "themes/harbor"]
 	path = themes/harbor
 	url = https://github.com/matsuyoshi30/harbor.git
+[submodule "public"]
+	path = public
+	url = git@github.com:yjkim0083/yjkim0083.github.io.git
+	branch = main
